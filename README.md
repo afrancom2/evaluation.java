@@ -48,7 +48,7 @@ curl --location 'http://localhost:8080/api/user' \
 }
 ```
 
-![Alt text](https://github.com/afrancom2/spring-muruna-evaluation/blob/master/src/main/responsecurl.JPG "Curl Response")
+![Alt text](https://github.com/afrancom2/evaluation.java/blob/main/src/main/resources/static/responsecurl.JPG "Curl Response")
 
 ### Diagram Class
-![Alt text](https://github.com/afrancom2/spring-muruna-evaluation/blob/master/src/main/Diagram.JPG "Diagram class")
+![Alt text](https://github.com/afrancom2/evaluation.java/blob/main/src/main/resources/static/Diagram.JPG "Diagram class")
