@@ -6,7 +6,7 @@ Connection to database in memory H2
 - Url: jdbc:h2:mem:evaluation_db
 - Database Name: evaluation_db
 - UserName: sa
-- Password: muruna
+- Password: bankbci
 
 ### Curl
 Execute curl in postman, view image final for example
